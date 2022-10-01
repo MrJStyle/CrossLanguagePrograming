@@ -86,3 +86,11 @@ or
 java HelloJNI
 ```
 
+
+
+## Reference
+1. https://www3.ntu.edu.sg/home/ehchua/programming/java/javanativeinterface.html
+2. https://gist.github.com/DmitrySoshnikov/8b1599a5197b5469c8cc07025f600fdb
+3. https://tech.meituan.com/2022/04/21/cross-language-call.html
+
+
